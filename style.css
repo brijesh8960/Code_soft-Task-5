@@ -1,0 +1,77 @@
+*{
+    margin: 0%;
+    padding:0%; 
+}
+
+.container1{
+
+/* display: flex; */
+}
+.footer{
+    background-color: rgb(44, 44, 234);
+    display: flex;
+    color: white;
+    gap : 20%;
+    padding :2% 4%;
+}
+.footer1{
+font-size:  150%;
+
+}
+.footer2{
+display : flex;
+gap:6%;
+padding : 0% 8%;
+font-size: larger;
+}
+.footer3{
+
+}
+.footer5{
+    display:flex;
+    font-size: larger;
+}
+.button1{
+background-color: rgb(15, 241, 15);
+color:white;
+border-style: none;
+border-radius: 5%;
+padding : 1% 2% 1%;
+/* font-size: larger; */
+
+}
+.image{
+    clear: both;
+float: right;
+padding: 0% 0%  5%;
+}
+
+.footer4{
+    background-color: rgb(44, 44, 234);
+    font-size: 150%;
+    color:white;
+    padding :10% 4%;
+}
+.footer5{
+    
+}
+.button2{
+    background-color: rgb(15, 241, 15);
+    color:white;
+    border-style: none;
+    font-size: 70%;
+    padding:1% 3% 1%;
+    border-radius: 5%;
+
+}
+.footer6{
+    display: flex;
+   padding: 5%;
+    gap:17%;
+    font-size: 150%;
+}
+.button3{
+    background-color: rgb(15, 241, 15);
+    padding: 0% 5% 0%;
+    display: flex;
+}
